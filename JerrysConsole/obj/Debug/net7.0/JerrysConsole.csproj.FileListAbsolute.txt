@@ -1,0 +1,15 @@
+/Users/user/Documents/JerrysQuickMart/JerrysConsole/bin/Debug/net7.0/JerrysConsole
+/Users/user/Documents/JerrysQuickMart/JerrysConsole/bin/Debug/net7.0/JerrysConsole.deps.json
+/Users/user/Documents/JerrysQuickMart/JerrysConsole/bin/Debug/net7.0/JerrysConsole.runtimeconfig.json
+/Users/user/Documents/JerrysQuickMart/JerrysConsole/bin/Debug/net7.0/JerrysConsole.dll
+/Users/user/Documents/JerrysQuickMart/JerrysConsole/bin/Debug/net7.0/JerrysConsole.pdb
+/Users/user/Documents/JerrysQuickMart/JerrysConsole/obj/Debug/net7.0/JerrysConsole.csproj.AssemblyReference.cache
+/Users/user/Documents/JerrysQuickMart/JerrysConsole/obj/Debug/net7.0/JerrysConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Documents/JerrysQuickMart/JerrysConsole/obj/Debug/net7.0/JerrysConsole.AssemblyInfoInputs.cache
+/Users/user/Documents/JerrysQuickMart/JerrysConsole/obj/Debug/net7.0/JerrysConsole.AssemblyInfo.cs
+/Users/user/Documents/JerrysQuickMart/JerrysConsole/obj/Debug/net7.0/JerrysConsole.csproj.CoreCompileInputs.cache
+/Users/user/Documents/JerrysQuickMart/JerrysConsole/obj/Debug/net7.0/JerrysConsole.dll
+/Users/user/Documents/JerrysQuickMart/JerrysConsole/obj/Debug/net7.0/refint/JerrysConsole.dll
+/Users/user/Documents/JerrysQuickMart/JerrysConsole/obj/Debug/net7.0/JerrysConsole.pdb
+/Users/user/Documents/JerrysQuickMart/JerrysConsole/obj/Debug/net7.0/JerrysConsole.genruntimeconfig.cache
+/Users/user/Documents/JerrysQuickMart/JerrysConsole/obj/Debug/net7.0/ref/JerrysConsole.dll

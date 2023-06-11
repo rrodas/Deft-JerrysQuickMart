@@ -1,0 +1,2 @@
+Milk:2,3.75,3.5,Tax-Exempt
+Red Bull:7,4.3,4,Taxable
